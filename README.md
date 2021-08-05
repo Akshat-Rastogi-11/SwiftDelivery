@@ -12,11 +12,11 @@ This Project was created for Object Oriented Programming Course.
 
 ## Team Members
 
+Akshat Rastogi 2018A3PS0197H
+
 Swapnil Kasliwal 2018B4A30311H
 
 Mudit Mathur 2018AAPs0461H
-
-Akshat Rastogi 2018A3PS0197H
 
 ## Android Requirements:
 
